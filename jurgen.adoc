@@ -1,0 +1,46 @@
+// a2x default options.
+//     a2x: -f epub -d book -a lang=de -a docinfo
+//     Xa2x: --stylesheet siegieStyle.css
+//     a2x: --xsltproc-opts "--stringparam part.autolabel 0"
+//     a2x: --xsltproc-opts "--stringparam chapter.autolabel 0"
+//     a2x: --xsltproc-opts "--stringparam section.autolabel.max.depth 0"
+
+Jurgen: Eine Kömödie über Gerechtigkeit
+=======================================
+James Branch Cabell
+
+[verse]
+Von JURGEN wird weit die Geschichte erzählt,
+Dass er von ner Alten die Jugend wieder erhält,
+Und findet ein Hemd noch, hell wie das Feuer,
+Darin das Vergnügen ist ihm nicht geheuer,
+In jedem Land, dass zur Wohnstatt er wählt.
+
+[verse]
+TO
+BURTON RASCOE
+[verse]
+Before each tarradiddle,
+Uncowed by sciolists,
+Robuster persons twiddle
+Tremendously big fists.
+[verse]
+``Our gods are good,'' they tell us;
+``Nor will our gods defer
+Remission of rude fellows'
+Ability to err.''
+[verse]
+So this, your JURGEN, travels
+Content to compromise
+Ordainments none unravels
+Explicitly ... and sighs.
+
+include::chap01.adoc[]
+
+include::chap02.adoc[]
+
+include::chap03.adoc[]
+
+include::chap04.adoc[]
+
+include::chap05.adoc[]
